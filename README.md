@@ -22,14 +22,17 @@ This is a mobile application built with React Native and Expo that allows users 
    ```bash
    git clone  https://github.com/yazeedayesh/food-finder.git
 2. **Install dependencies: Navigate to the project folder and install all the necessary dependencies using npm or yarn**
-   
    ```bash
    cd your-repository-name
    npm install
-Or if you're using Yarn:
-
-```bash
-   yarn install
-
-
-
+Or if yuo're using Yarn:
+```
+yarn install
+  ```
+3. **Start the development server: To start the app in development mode, use Expo CLI.**
+   ```
+   expo start
+**How to Use the App**
+1.Open the app on your mobile device using the Expo Go app (scan the QR code shown in your browser when running expo start).
+2.You will be able to search for food places by entering a search term (e.g., "pizza") and viewing results from Yelp.
+3.Tap on a result to view details such as name, rating, and images of the restaurant.
