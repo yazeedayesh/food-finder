@@ -20,7 +20,18 @@ This is a mobile application built with React Native and Expo that allows users 
    First, clone the project to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-Install dependencies: Navigate to the project folder and install all the necessary dependencies using npm or yarn.
-cd your-repository-name
-npm install
+   git clone  https://github.com/yazeedayesh/food-finder.git
+2. **Install dependencies: Navigate to the project folder and install all the necessary dependencies using npm or yarn**
+   
+   ```bash
+   cd your-repository-name
+   npm install
+-Or if you're using Yarn:
+
+   ```bash
+yarn install
+
+
+
+
+
