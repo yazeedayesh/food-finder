@@ -26,11 +26,11 @@ This is a mobile application built with React Native and Expo that allows users 
    cd your-repository-name
    npm install
 Or if yuo're using Yarn:
-```
+   ```bash
 yarn install
   ```
 3. **Start the development server: To start the app in development mode, use Expo CLI.**
-   ```
+   ```bash
    expo start
 ## How to Use the App:
 
