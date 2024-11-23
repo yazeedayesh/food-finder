@@ -40,3 +40,12 @@ yarn install
 
 ## License
 **This project is licensed under the MIT License - see the LICENSE file for details.**
+
+
+### Key changes:
+
+1. Fixed formatting issues with code blocks.
+2. Added missing closing backticks for code blocks in the "Setup and Installation" section.
+3. Corrected the `cd` command to reference the correct folder (`food-finder`).
+
+
