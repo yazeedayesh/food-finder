@@ -26,11 +26,10 @@ This is a mobile application built with React Native and Expo that allows users 
    ```bash
    cd your-repository-name
    npm install
--Or if you're using Yarn:
+Or if you're using Yarn:
 
    ```bash
 yarn install
-
 
 
 
