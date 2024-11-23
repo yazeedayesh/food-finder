@@ -32,11 +32,11 @@ yarn install
 3. **Start the development server: To start the app in development mode, use Expo CLI.**
    ```
    expo start
-##How to Use the App:
+## How to Use the App:
 
 1. **Open the app on your mobile device using the Expo Go app (scan the QR code shown in your browser when running expo start).**
 2. **You will be able to search for food places by entering a search term (e.g., "pizza") and viewing results from Yelp.**
 3. **Tap on a result to view details such as name, rating, and images of the restaurant.**
 
-##License
+## License
 **This project is licensed under the MIT License - see the LICENSE file for details.**
