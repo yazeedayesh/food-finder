@@ -39,7 +39,7 @@ This is a mobile application built with React Native and Expo that allows users 
 3. **Tap on a result to view details such as name, rating, and images of the restaurant.**
 
 ## License
-**This project is licensed under the MIT License - see the LICENSE file for details.**
+**This project is licensed under the MIT License.**
 
 
 
