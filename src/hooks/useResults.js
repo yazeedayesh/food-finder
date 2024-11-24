@@ -12,7 +12,7 @@ export default () => {
     const url = `https://api.yelp.com/v3/businesses/search`;
 
     try {
-      setIsLoading(true); // بدأ التحميل
+      setIsLoading(true); 
       const response = await fetch(
         url + `?term=${searchTerm}&location=san+jose&limit=20`,
         {
